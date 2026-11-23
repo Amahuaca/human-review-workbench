@@ -6,6 +6,9 @@ A runnable example of an AI-assisted support workflow: inspect evidence, edit a 
 **Portfolio demonstration, created with AI assistance.** Responses and customer data are fictional. There is no AI API, backend, delivery integration or persistent storage. This is new sample code, not extracted from a shipped product.
 
 ## Try it
+[Open the live demo →](https://amahuaca.github.io/human-review-workbench/)
+
+To run it locally:
 Clone or download this repository, then serve its root:
 ```sh
 python3 -m http.server 8000
